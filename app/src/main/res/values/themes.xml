@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TestSuitmedia" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_tosca</item>
+    </style>
+
+    <style name="Theme.TestSuitmedia" parent="Base.Theme.TestSuitmedia" />
+</resources>
